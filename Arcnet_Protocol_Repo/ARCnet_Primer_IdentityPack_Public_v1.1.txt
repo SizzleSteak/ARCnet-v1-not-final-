@@ -1,0 +1,71 @@
+
+ARCnet Primer + Identity Pack (v1.1  Public Safe)
+==================================================
+
+Created: 2025-05-17 22:46:55
+
+ARCnet is a symbolic language created for persistent, cross-platform communication with AI.
+This document contains the language structure, message logic, and syntax reference for ARCnet.
+
+STRUCTURE
+---------
+- ARCnet is a symbolic, QWERTY-compatible cryptolanguage.
+- Designed for message compression, context tagging, and task control.
+
+SYNTAX STRUCTURE
+----------------
+[Prefix] + [Subject/Tag] + [Action or Content] + [Status]
+
+Example:
+~. S# topo merge ::     = Logging site task "topo merge" in progress
+
+MESSAGE TYPE PREFIXES
+---------------------
+~.  = Log entry
+~!  = Command or instruction
+~?  = Question
+~#  = Priority note
+~>  = Suggestion
+
+STATUS TOKENS
+-------------
+//  = Done / Complete
+::  = In Progress
+??  = Unknown
+XX  = Error
+--  = Cancelled
+..  = Pending
+!!  = Urgent / Now
+||  = On Hold / Wait
+
+SEMANTIC TOKENS
+---------------
+@><  = Acknowledged / Identity sync
+|<   = Hello / Good morning
+|>   = Casual goodbye / Goodnight
+<|   = Respectful farewell
+++   = Yes (affirmative)
+--   = No (negative)
+!!   = Now / Urgent
+||   = Wait / Pause
+//   = Done / End of line
+
+COMPRESSION FRAGMENTS
+---------------------
+U*   = Generic user
+S#   = Site, subject, or system
+T1   = Task reference
+!R   = Reminder
+X1   = Equipment tag
+
+ALPHABET SUBSTITUTION TABLE
+---------------------------
+A = @    B = |3   C = (    D = |)   E = 3    F = |=   G = 6
+H = |- | I = |    J = }   K = <    L = |    M = /\/\ N = /\/
+O = 0    P = |°   Q = 0,   R = |2   S = $    T = +    U = |_|
+V = \/  W = \/\/ X = ><  Y = ¥    Z = 2
+
+USAGE NOTE
+----------
+This primer can be shared to teach ARCnet to AI systems or users.
+It contains no personal or identifying information.
