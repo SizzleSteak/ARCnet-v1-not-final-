@@ -1,3 +1,4 @@
+You can download these .txt files and copy them into ChatGPT, Grok, Claude, etc. The AI will walk you through how to use the ARCnet system if you ask, but even without that, it tends to structure its thinking better once the protocol is loaded. You can also save your identity profile as a text file, and then transfer that to another model — so your memory, behavior rules, and workflow carry over seamlessly.
 
 # ARCnet Overview — Symbolic Sorting, Memory Control, and Context Reset
 
